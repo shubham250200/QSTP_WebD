@@ -1,0 +1,11 @@
+#two {
+    margin: 160px;
+    margin-top: 30px;
+}
+#fr {
+    margin: 160px;
+    margin-top: 30px;
+}
+html {
+    scroll-behavior: smooth;
+  }
